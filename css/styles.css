@@ -1,0 +1,83 @@
+html {
+    /*    background-color: #E2EFDE;*/
+    max-width: 45rem;
+}
+
+.footer {
+    background-color: #C0C999;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 45rem;
+    height: auto;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.social-media {
+    list-style: none;
+    text-align: center;
+}
+
+.link {
+    display: inline-block;
+    width: 25px;
+    height: auto;
+    color: white;
+    padding: 5px;
+}
+
+.masthead-bg {
+    width: 40%;
+    height: auto;
+
+}
+
+.masthead-slogan {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 3rem;
+}
+
+.masthead-text {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 1.2rem;
+}
+
+.widget {
+    max-width: 45rem;
+    height: 2000px;
+    background-color: #E2EFDE;
+}
+
+.main {
+    background-color: #E2EFDE;
+    height: 100%;
+}
+
+.add {
+    padding: 20px;
+    width: 40%;
+    height: auto;
+}
+
+.add-btn {
+    border-radius: 14%;
+    font-size: 1.2rem;
+    background-color: #FF8D27;
+    padding: 0.2rem 1.3rem;
+    text-align: center;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.input-text {
+    height: auto;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+ul {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.list {
+    overflow-y: auto;
+    max-height: 100%;
+}
